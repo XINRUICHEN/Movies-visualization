@@ -7,3 +7,6 @@ Present in Excel and showing revenue, cast, direstor, keywords, genres and so fo
 
 ## Work:
 I cleaned wrong or missing data in Excel and then used Tableau to visualize these data in order to explore questions like: What is the difference between the film level and the box office shot by different directors? How does a movie based on a novel behave compared to a non-fiction adapted movie? (several questions like that). Finally, based on these analysis results, I made suggestions to a newly established film company about how to make the first movie (like who to choose as a director, which genre the film is).
+
+## URL Link:
+https://public.tableau.com/profile/chenxinrui#!/vizhome/BA3_movies/Q1
