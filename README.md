@@ -1,5 +1,6 @@
 # Udacity-BA-project3
 Use data to make suggestions for a movie-making company
+This is the third project for Udacity Business Analyst Courses.
 
 ## Original data:
 Present in Excel and showing revenue, cast, direstor, keywords, genres and so forth of 10844 films. 
