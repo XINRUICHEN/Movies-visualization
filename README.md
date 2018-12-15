@@ -1,5 +1,5 @@
 # Udacity-BA-project3
-Use data to make suggestions for a movie-making company
+Use data to make suggestions for a movie-making company.<br>
 This is the third project for Udacity Business Analyst Courses.
 
 ## Original data:
